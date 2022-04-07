@@ -22,7 +22,7 @@ export default function App() {
     });
     return (
         <div className="w-[100vw] h-[90vh] lg:h-[95vh] bg-black flex justify-center items-center">
-            <h1 className="text-white text-3xl">Subathon Countdown</h1>
+            <h1 className="text-white text-3xl">Subathon Countdown!</h1>
             <h1 id="time" className="text-white text-6xl"></h1>
         </div>
     );
