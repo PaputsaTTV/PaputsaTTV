@@ -7,7 +7,8 @@ var things = [
     ['"pap is pog."', '- GameGecko#1177'],
     ['"pap is buff and hot"','- Rdcrustic#2409'],
     ['"Made me feel welcome from day one, Makes sure there is always something fun going on in stream and aims to involve the community in every way possible. My streamer 🥰"','- Cold#7362'],
-    ['"Mike is handsomest baby gorl"', '- Morin (ProRacer_QC#3309)']
+    ['"Mike is handsomest baby gorl"', '- Morin (ProRacer_QC#3309)'],
+    [`"pap is a person who can play videogames and listen to peoples problems and on top of that give great life advice all the while managing a stream to the utmost perfection a laughable and sincere person that makes streaming look easy truly a loveable man if I wasn't already married"`, "RefreshmeSenpai#3325"]
 ];
 function shuffle(array) {
     let currentIndex = array.length,  randomIndex;
