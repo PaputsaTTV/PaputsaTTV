@@ -5,7 +5,7 @@ export default function App() {
     useEffect(()=>{
         setTimeout(()=>{
             var time = document.getElementById("time");
-            var epch = new Date("April 22 2022 12:00:00");
+            var epch = new Date("April 22 2022 13:00:00");
             var diff = (epch - Date.now())/1000;
             var days = `${diff/(60*60*24)}`.split(".");
             diff = diff%(60*60*24);
